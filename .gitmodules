@@ -1,0 +1,16 @@
+[submodule "standy-user-management"]
+	path = standy-user-management
+	url = https://github.com/mywatch/standy-user-management.git
+	branch = master
+[submodule "standy-user-contribution-calculator"]
+	path = standy-user-contribution-calculator
+	url = https://github.com/panzerstadt/standy-user-contribution-calculator.git
+	branch = master
+[submodule "standy-react-frontend"]
+	path = standy-react-frontend
+	url = https://github.com/panzerstadt/standy-react-frontend.git
+	branch = master
+[submodule "standy-cloudfunction-matrix-generator"]
+	path = standy-cloudfunction-matrix-generator
+	url = https://github.com/panzerstadt/standy-cloudfunction-matrix-generator.git
+	branch = master
