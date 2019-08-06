@@ -2,19 +2,25 @@
 
 ![diagram](./diagram.png)
 
-1. GPS data Posting UI
+1. Video
 
-   - UI: - main: standy-react-frontend - user management: standy-user-management
-   - SERVERLESS FUNCTION: matrix calculator for database: standy-cloudfunction-matrix-generator
-   - SERVERLESS FUNCTION: user contribution calculator: standy-user-contribution-calculator
+-   https://standy2019.glitch.me/
 
-2. VR Dashboard
+2. GPS data Posting UI
 
-   - https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0
+-   UI: - main: standy-react-frontend - user management: standy-user-management
+-   SERVERLESS FUNCTION: matrix calculator for database: standy-cloudfunction-matrix-generator
+-   SERVERLESS FUNCTION: user contribution calculator: standy-user-contribution-calculator
 
-3. AR View
+3. VR Dashboard
 
-   - https://glitch.com/edit/#!/ar-view?path=index.html:1:0
+-   https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0
 
-4. Crowdedness data visualization
-   - Dismissing-the-crowdedness-challenge-20190724.twbx
+4. AR View
+
+-   https://glitch.com/edit/#!/ar-view?path=index.html:1:0
+
+5. Crowdedness data visualization
+
+-   https://public.tableau.com/profile/koichi.okada#!/vizhome/shared/X7Q4288G8
+-   Dismissing-the-crowdedness-challenge-20190724.twbx
