@@ -1,6 +1,8 @@
 # STANDY 2019
 
 ![diagram](./diagram.png)
+![dataStructure](./dataStructure.png)
+![contributionCalculation](./contributionCalculation.png)
 
 1. Video
 
@@ -12,15 +14,21 @@
     - SERVERLESS FUNCTION: matrix calculator for database: standy-cloudfunction-matrix-generator
     - SERVERLESS FUNCTION: user contribution calculator: standy-user-contribution-calculator
 
-3. VR Dashboard
+3. 3D Dashboard
 
-    - https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0
+   [(Regular mode)](bit.ly/Save_the_Olympics)
 
-4. AR View
+   - https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0
 
-    - https://glitch.com/edit/#!/ar-view?path=index.html:1:0
+   [(AR mode)](https://ar-dashboard-olympics.glitch.me) 
 
-5. Crowdedness data visualization
+   - https://glitch.com/edit/#!/ar-dashboard-olympics
+
+4. Street View
+
+   - https://glitch.com/edit/#!/ar-view?path=index.html:1:0
+
+4. Crowdedness data visualization
 
     - https://public.tableau.com/profile/koichi.okada#!/vizhome/shared/X7Q4288G8
     - Dismissing-the-crowdedness-challenge-20190724.twbx
