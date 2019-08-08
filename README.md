@@ -1,7 +1,7 @@
 # STANDY 2019
 
 ![diagram](13_diagram.png)
-![dataStructure](13_dataStructure.png)
+![dataStructure](13_data_structure.png)
 ![contributionCalculation](13_contribution_calculation.png)
 
 1. PDF
