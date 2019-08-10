@@ -1,26 +1,49 @@
 # STANDY 2019
 
-![diagram](./diagram.png)
+![diagram](13_diagram.png)
+![dataStructure](13_data_structure.png)
+![contributionCalculation](13_contribution_calculation.png)
 
-1. Video
+1. PDF
+
+    - 10-Olympics-STANDY-20190805.pdf
+
+2. Video
 
     - https://standy2019.glitch.me/
 
 2. GPS data Posting UI
 
-    - UI: - main: standy-react-frontend - user management: standy-user-management
-    - SERVERLESS FUNCTION: matrix calculator for database: standy-cloudfunction-matrix-generator
-    - SERVERLESS FUNCTION: user contribution calculator: standy-user-contribution-calculator
+    - [demo (link)](https://standy.firebaseapp.com/)
+    - code  
+       - main: standy-react-frontend  
+        - user management: standy-user-management
+        - SERVERLESS FUNCTION: matrix calculator for database: standy-cloudfunction-matrix-generator
+        - SERVERLESS FUNCTION: user contribution calculator: standy-user-contribution-calculator
 
-3. VR Dashboard
+3. 3D Dashboard
 
-    - https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0
+   (Regular mode)
 
-4. AR View
+   - [demo (link)](bit.ly/Save_the_Olympics)
 
-    - https://glitch.com/edit/#!/ar-view?path=index.html:1:0
+   - [code (link)](https://glitch.com/edit/#!/vr-dashboard-olympics?path=index.html:1:0)
 
-5. Crowdedness data visualization
+   (AR mode)
 
-    - https://public.tableau.com/profile/koichi.okada#!/vizhome/shared/X7Q4288G8
-    - Dismissing-the-crowdedness-challenge-20190724.twbx
+   - [demo (link)](https://ar-dashboard-olympics.glitch.me) 
+
+      must be opened with WebXR viewer
+
+   - [code (link)](https://glitch.com/edit/#!/ar-dashboard-olympics)
+
+4. Street View
+ 
+   - [demo (link)](http://ar-view.glitch.me)
+
+   - [code (link)](https://glitch.com/edit/#!/ar-view?path=index.html:1:0)
+
+4. Crowdedness data visualization
+
+    - [demo (link)](https://public.tableau.com/profile/koichi.okada#!/vizhome/shared/X7Q4288G8)
+    - tableau workbook: Dismissing-the-crowdedness-challenge-20190724.twbx
