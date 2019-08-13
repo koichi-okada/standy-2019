@@ -37,7 +37,7 @@
 
    - [code (link)](https://glitch.com/edit/#!/ar-dashboard-olympics)
 
-4. Street View
+4. Panorama View
  
    - [demo (link)](http://ar-view.glitch.me)
 
